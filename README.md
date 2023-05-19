@@ -8,8 +8,8 @@ Mi nombre es Genis Vidal, pero me conocen como Pliksys, soy Platform Engineer y 
 
 ## Skills
 
-* Usando Kubernetes en Producción.
-* AWS, Terraform, Docker, todas las cosas de la nube :)
-* Pensamiento crítico, toma de decisiones y habilidades para resolver problemas
-* Algo de código Python
-* Habilidades especiales y experiencia en startups de rápido crecimiento.
+* Experiencia en implementación y administración de Kubernetes en entornos de producción.
+* Amplio conocimiento de servicios y herramientas en la nube, especialmente en AWS. Experiencia en el uso de Terraform para la infraestructura como código y Docker para la contenerización de aplicaciones.
+* Habilidades sólidas en pensamiento crítico, toma de decisiones y resolución de problemas.
+* Competencia en el desarrollo con Python, con capacidad para escribir y mantener código de calidad.
+* Experiencia valiosa en el entorno de startups de rápido crecimiento, demostrando adaptabilidad y capacidad para enfrentar desafíos diversos.
