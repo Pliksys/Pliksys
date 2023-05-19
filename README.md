@@ -2,7 +2,7 @@
 
 Mi nombre es Genis Vidal, pero me conocen como Pliksys, soy Platform Engineer y me encanta todo lo relacionado con la tecnología, especialmente la informática y la programación.
 
-* Actualmente trabajo como Platform Engineer en [Space GO](https://spacego.games))
+* Actualmente trabajo como Platform Engineer en [Space GO](https://spacego.games)
 * Tengo un blog de tecnologia [DizzyHash](https://dizyhash.tech) sobre cultura DEVOPS y tecnología como Docker y Kubernetes.
 
 
